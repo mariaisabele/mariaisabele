@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Maria Isabele 👩🏻‍💻🖤
 
 - ✨ Seja bem vindx ao meu perfil no GitHub
-- 🔭 Sou estudante de desenvolvimento front-end e estou a procura do meu primeiro emprego como dev :)
+- 🔭 Sou desenvolvedora front-end e estou a procura do meu primeiro emprego como dev :)
 - 🪐 Atualmente estou estudando React Native e TypeScript
 
 <div align="center">
