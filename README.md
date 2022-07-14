@@ -1,8 +1,11 @@
-## Olá! Eu sou a Maria Isabele 👩🏻‍💻🖤
+## 👩🏻‍💻 Olá! Eu sou Maria Isabele | Seja bem vindx ao meu perfil no GitHub ✨
 
-- ✨ Seja bem vindx ao meu perfil no GitHub
+#### 🤍 Um pouco sobre mim:
 - 🔭 Sou desenvolvedora front-end e estou a procura do meu primeiro emprego como dev :)
 - 🪐 Atualmente estou estudando React Native e TypeScript
+- 💾 Adoro tecnologia, mas antes de me descobrir Dev cursei Psicologia
+- 📖 Me considero completamente apaixonada por livros, fotografia e música
+#
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mariaisabelecarneiro/">
@@ -10,7 +13,9 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaisabele&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+
 <div style="display: inline_block"><br>
+<h3>👾 Linguagens e tecnologias que domino:</h3>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
