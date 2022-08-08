@@ -3,7 +3,7 @@
 #### 🤍 Um pouco sobre mim:
 - 🔭 Sou estudante de desenvolvimento front-end :)
 - 🪐 Atualmente estou estudando React Native e TypeScript
-- 💾 Adoro tecnologia mas, antes de me descobrir Dev, cursei Psicologia
+- 💾 Adoro tecnologia, mas - antes de me descobrir Dev - cursei Psicologia
 - 📖 Me considero completamente apaixonada por livros, fotografia e música
 #
 
