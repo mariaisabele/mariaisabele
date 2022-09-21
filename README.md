@@ -1,9 +1,9 @@
 ## 👩🏻‍💻 Olá! Eu sou Maria Isabele | Seja bem vindx ao meu perfil no GitHub ✨
 
 #### 🤍 Um pouco sobre mim:
-- 🔭 Sou estudante de desenvolvimento front-end :)
-- 🪐 Atualmente estou estudando React Native e TypeScript
-- 💾 Adoro tecnologia, mas - antes de me descobrir Dev - cursei Psicologia
+- 🔭 Sou estudante de garantia de qualidade e desenvolvedora front-end :)
+- 🪐 Atualmente estou estudando testes de software
+- 💾 Adoro tecnologia, mas - antes de me descobrir - cursei Psicologia
 - 📖 Me considero completamente apaixonada por livros, fotografia e música
 #
 
