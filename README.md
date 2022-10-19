@@ -1,8 +1,7 @@
 ## 👩🏻‍💻 Olá! Eu sou Maria Isabele | Seja bem vindx ao meu perfil no GitHub ✨
 
-#### 🤍 Um pouco sobre mim:
+#### 🪐 Um pouco sobre mim:
 - 🔭 Sou analista de garantia de qualidade e desenvolvedora front-end :)
-- 🪐 Atualmente estou estudando testes de software
 - 💾 Adoro tecnologia, mas - antes de me descobrir - cursei Psicologia
 - 📖 Me considero completamente apaixonada por livros, fotografia e música
 #
