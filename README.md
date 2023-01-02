@@ -2,7 +2,7 @@
 
 #### 🪐 Um pouco sobre mim:
 - 🔭 Sou analista de garantia de qualidade, mas já me arrisquei como desenvolvedora front-end então aqui você deve encontrar um pouquinho dos dois :)
-- 🧠 Adoro tecnologia, mas - antes de me descobrir na área - cursei Psicologia
+- 🧠 Adoro Quality Assurance, mas - antes de me descobrir na área - cursei Psicologia
 - 📖 Para além do amor por tecnologia, me considero completamente apaixonada por filosofia, fotografia e música
 ##
 
